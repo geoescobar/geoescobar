@@ -3,9 +3,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 😀 &nbsp; Exploring new technologies and developing software solutions.
+- 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduate of Southern Methodist University.
-- 🌱 &nbsp; Learning more about MERN Applications, AWS, & Firebase.
+- 📝 &nbsp; Always looking for new opportunities to learn and grow.
 - ✍️ &nbsp; Pursuing my first role as a Software Engineer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
